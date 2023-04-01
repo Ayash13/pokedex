@@ -24,11 +24,11 @@ Pokedex is a web application that allows users to search for and view informatio
 
 # Installation
 
-## To use the Pokedex program, you can simply open the index.html file in your web browser. The program does not require any additional dependencies or installations.
+### To use the Pokedex program, you can simply open the index.html file in your web browser. The program does not require any additional dependencies or installations.
 
 # Usage
 
-## Once you have opened the index.html file in your web browser, you can use the program to search for and view information about various Pokemon. You can do the following:
+### Once you have opened the index.html file in your web browser, you can use the program to search for and view information about various Pokemon. You can do the following:
 
 - Scroll through the list of Pokemon to view their basic information, such as their ID, name, types, image, and moves.
 - Click the "Show More" button to load more Pokemon into the table.
