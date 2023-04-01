@@ -1,10 +1,10 @@
-#Pokedex
+# Pokedex
 
 Pokedex is a web application that allows users to search for and view information about various Pokemon. This program was created using HTML, CSS, JavaScript, and the PokeAPI API.
 
-#Technologies Used
+# Technologies Used
 
-##This application was built using:
+## This application was built using:
 
 - HTML
 - CSS
@@ -12,9 +12,9 @@ Pokedex is a web application that allows users to search for and view informatio
 - jQuery
 - Fetch API
 
-#Features
+# Features
 
-##The Pokedex program allows users to:
+## The Pokedex program allows users to:
 
 - View a list of 10 Pokemon by default
 - Load more Pokemon by clicking the "Show More" button
@@ -22,13 +22,13 @@ Pokedex is a web application that allows users to search for and view informatio
 - View detailed information about a specific Pokemon by clicking on its row in the table
 - View a list of the Pokemon's types, image, and moves
 
-#Installation
+# Installation
 
-##To use the Pokedex program, you can simply open the index.html file in your web browser. The program does not require any additional dependencies or installations.
+## To use the Pokedex program, you can simply open the index.html file in your web browser. The program does not require any additional dependencies or installations.
 
-#Usage
+# Usage
 
-##Once you have opened the index.html file in your web browser, you can use the program to search for and view information about various Pokemon. You can do the following:
+## Once you have opened the index.html file in your web browser, you can use the program to search for and view information about various Pokemon. You can do the following:
 
 - Scroll through the list of Pokemon to view their basic information, such as their ID, name, types, image, and moves.
 - Click the "Show More" button to load more Pokemon into the table.
