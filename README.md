@@ -35,5 +35,5 @@ Pokedex is a web application that allows users to search for and view informatio
 - Use the search bar to search for a specific Pokemon by name or ID. The table will update to show only the matching Pokemon.
 - Click on a Pokemon's row in the table to view its detailed information, such as its types, image, and moves.
 
-### Live demo
-https://ayash13.github.io/pokedex/
+# Live Demo
+### https://ayash13.github.io/pokedex/
