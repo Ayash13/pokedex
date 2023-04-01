@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Pokedex</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <div id="pokemon-container">
+        <table>
+            <thead>
+                <tr>
+                    <th class="title" colspan="4">POKEDEX</th>
+                    <th class="search-tab">
+                        <form action="" class="search">
+                            <input type="search" required id="search-bar" placeholder="Search Pokemon...">
+                            <i class="fa fa-search"></i>
+                        </form>
+                    </th>
+                </tr>
+                <tr>
+                    <th>ID</th>
+                    <th>NAME</th>
+                    <th>TYPE</th>
+                    <th>IMAGE</th>
+                    <th>SKILLS</th>
+                </tr>
+            </thead>
+            <tbody id="pokemon-data"></tbody>
+        </table>
+        <button class="show-more" id="show-more">Show More</button>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
